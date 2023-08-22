@@ -1,6 +1,5 @@
 while True:
-    number = input("number = ")
-    number = int(number)
+    number = int(input("number = "))
     while True:
         print(number)
         number = number - 1
